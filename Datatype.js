@@ -15,14 +15,14 @@
 const Bignumber = 3247240923123432434n;
 
 //Array
-const hero = [mummy , papa, tai , bhau];
+const hero = [2 , 4,4,5,6,6,7,77,7];
 
 //object always writtenn in {} braces
 let myObj= {
     name: "rutu",
     age: 19,
 }
-
+console.log("demo")
 //function
 //variable function
 const myFunction = function(){
