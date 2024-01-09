@@ -41,3 +41,4 @@ val1 = 5 ?? 10
 // val = null ?? 10 
 // val = undefined ?? 15
 console.log(val1);
+
